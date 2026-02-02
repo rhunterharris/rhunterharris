@@ -1,0 +1,65 @@
+baseURL = 'https://www.huntersoftwareconsulting.com/'
+languageCode = 'en-us'
+title = 'Hunter Software Consulting'
+theme = 'hugo-coder'
+defaultContentLanguage = "en"
+enableEmoji = true
+#enableGitInfo = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Hunter Harris"
+description = 'Consultant with 2 decades experience, with 4 successful exits'
+avatarURL = "images/avatar.jpg"
+keywords = "blog,engineer,consultant,personal"
+#commit = "https://github.com/JensRantil/jensrantil.github.io/tree"
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[languages.en]
+languageName = ":us:"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 3
+url = "/pages/about-me/"
+
+[[languages.en.menu.main]]
+name = "Services"
+weight = 3
+url = "/pages/services/"
+
+[[languages.en.menu.main]]
+name = "Testimonials"
+weight = 3
+url = "testimonials/"
+
+[[params.social]]
+name = "E-mail"
+icon = "fa fa-2x fa-envelope"
+weight = 0
+url = "mailto:hunter@huntersoftwareconsulting.com"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/rhunterharris/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/rhunterharris/"
