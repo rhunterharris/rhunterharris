@@ -4,6 +4,10 @@ date: 2026-02-02
 Services
 ========
 
+In my years in startups, I've seen the same problems occur time and time again.  Early compromises compound, slowing organizations until they lose their edge.  Low hanging fruit is forgotten, and bottlenecks worsen.
+
+Each company has its own difficulties when shipping, but they can be traced back to similar root causes.  That's why I created the PROPEL Analysis Framework - to triage the specific issues that are preventing you from accessing revenue and adding risk. 
+
 ### PROPEL Analysis Framework
 
 | Area | Includes | Metrics |
