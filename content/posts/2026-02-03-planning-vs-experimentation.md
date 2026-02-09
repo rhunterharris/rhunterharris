@@ -2,6 +2,7 @@
 date = '2026-02-03T12:58:43-05:00'
 draft = false
 title = 'AI Velocity: Planning Vs Experimentation'
+tags = ["velocity", "engineering"]
 +++
 
 In talking with founders about their AI strategy, I've noticed consolidation into two major camps of AI assisted acceleration: Planners and Experimenters.  Each of these has strengths and weaknesses in their delivery execution.
