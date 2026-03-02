@@ -2,7 +2,7 @@
 date = '2026-02-09T08:53:43-05:00'
 draft = false
 title = 'Our Culture & Engineering Integration'
-tags = ["integration", "engineering"]
+tags = ["leadership", "engineering"]
 slug = "our-culture-engineering-integration"
 +++
 

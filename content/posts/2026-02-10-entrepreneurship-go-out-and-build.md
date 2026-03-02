@@ -2,7 +2,7 @@
 date = '2026-02-09T12:53:43-05:00'
 draft = false
 title = 'Go Out and Build'
-tags = ["entrepreneurship"]
+tags = ["leadership"]
 slug = "entrepreneurship-go-out-and-build"
 +++
 
