@@ -59,6 +59,18 @@ weight = 1
 url = "https://github.com/rhunterharris/"
 
 [[params.social]]
+name = "Youtube"
+icon = "fa fa-2x fa-youtube"
+weight = 1
+url = "https://www.youtube.com/@BuildandBreakThroughPodcast"
+
+[[params.social]]
+name = "Spotify"
+icon = "fa fa-2x fa-spotify"
+weight = 1
+url = "https://open.spotify.com/show/52XL8Knn990EOL9g1SjAOa"
+
+[[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 3
