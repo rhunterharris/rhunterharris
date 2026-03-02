@@ -2,7 +2,7 @@
 date = '2026-03-02T14:14:43-05:00'
 draft = false
 title = 'The Full Rewrite: AI edition'
-tags = ["engineering", "ai", "project management", "product management"]
+tags = ["engineering", "ai", "process", "product"]
 slug = "ai-full-rewrite"
 +++
 
