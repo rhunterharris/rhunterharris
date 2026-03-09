@@ -13,7 +13,7 @@ Each company has its own difficulties when shipping, but they can be traced back
 | Area | Includes | Metrics |
 |------|----------|---------|
 | **[Product]({{< ref "/tags/product/" >}})** | Planning, Backlog, & Roadmap Analysis | Decrease planning time by 10-15% |
-| **Recruitment** | Career Ladder & Hiring Process Analysis, Resume Reviews | Decrease interview time by 5-10% |
+| **[Recruitment]({{< ref "/tags/recruitment/" >}})** | Career Ladder & Hiring Process Analysis, Resume Reviews | Decrease interview time by 5-10% |
 | **Onboarding** | Onboarding Task & Application Setup Analysis | Decrease time to 1st & 10th Pull Request by 25-50% |
 | **[Process]({{< ref "/tags/process/" >}})** | QA, Ritual, & Incident Analysis | Increase deployment frequency 10-15% |
 | **[Engineering]({{< ref "/tags/engineering/" >}})** | Documentation & Ritual Analysis | Increase velocity by 12-15% |
