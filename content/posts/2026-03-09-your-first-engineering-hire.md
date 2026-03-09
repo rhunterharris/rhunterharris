@@ -35,7 +35,7 @@ Typical equity compensation may be low single digits, 1-2%.
 
 ### Head of Engineering
 
-Heads of ENgineering are useful in developing systems for scaling engineering.  They are better deployed with less feasibility concerns, when you need to scale teams to attack feature work.  A great example is integration-heavy applications.  Feasibility is given (the APIs exist), but execution is a concern due to scale.  This role is mainly useful with scaled headcount for management, whether contract or W2.
+Heads of Engineering are useful in developing systems for scaling engineering.  They are better deployed with less feasibility concerns, when you need to scale teams to attack feature work.  A great example is integration-heavy applications.  Feasibility is given (the APIs exist), but execution is a concern due to scale.  This role is mainly useful with scaled headcount for management, whether contract or W2.
 
 Typical equity compensation may be 1-4%
 
