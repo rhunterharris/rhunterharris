@@ -3,7 +3,7 @@ date = '2026-03-16T14:14:43-05:00'
 draft = false
 title = 'On the Iron Triangle'
 tags = ["engineering", "process", "product"]
-slug = "your-first-engineering-hire"
+slug = "the-iron-triangle"
 +++
 
 The Iron Triangle is a classic model of constraints.  According to the model, there are Quality, Time, and Cost.  Pick one, at most two.  But what if this model is inherently misleading?
