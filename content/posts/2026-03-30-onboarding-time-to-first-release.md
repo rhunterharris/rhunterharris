@@ -7,7 +7,7 @@ tags = ["engineering", "onboarding"]
 
 I've joined many engineering organizations, and there's one metric I return to that differentiated successful organizations from unsuccessful ones - time to onboard, as measured by time to first release.  I should add that "success" here is subjective - the "successful" ones were able to extract much more objective value (in terms of ROI in increased ARR) from my fellow engineers and I, while the "unsuccessful" ones struggled or failed to extract similar value.
 
-As a note, given that this is time to value, it compounds.  Early release means starting your *next* release sooner, and so on.  The difference can me magnified significantly over time.  I also differentiate this from time-to-first-commit - which measures when work *starts*, vs when the first work item *ends*.
+As a note, given that this is time to value, it compounds.  Early release means starting your *next* release sooner, and so on.  The difference can be magnified significantly over time.  I also differentiate this from time-to-first-commit - which measures when work *starts*, vs when the first work item *ends*.
 
 ### Low hanging fruit - a suitably-refined backlog
 
