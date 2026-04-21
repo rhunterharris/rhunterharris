@@ -1,5 +1,5 @@
 +++
-date = '2026-04-12T16:46:43-05:00'
+date = '2026-04-20T16:46:43-05:00'
 draft = false
 title = 'The Career Ladder'
 tags = ["recruitment"]
@@ -13,7 +13,7 @@ A workable ladder starts with you and what you care about (and, what tactical pr
 
 Where to start?
 
-### At the bottom - Juniors
+### From the bottom - Juniors
 
 Start with the lowest level talent.  Define base capabilities and expectations.
 
