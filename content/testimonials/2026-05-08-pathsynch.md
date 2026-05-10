@@ -1,7 +1,7 @@
 +++
 date = '2026-05-08T07:58:43-05:00'
 draft = false
-title = 'ProLine'
+title = 'PathSynch'
 +++
 
 Over the past year, Hunter has continued to be an invaluable advisor to me and to PathSynch. What makes Hunter especially valuable is not only his knowledge of AI, but his deep understanding of the infrastructure, architecture, and strategic decisions required to apply AI in a real business context.
