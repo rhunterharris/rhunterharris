@@ -18,7 +18,7 @@ But what goes unacknowledged is the inter-departmental cycles.  Each of these cy
 
 But these are cycles, not feedback loops.  
 
-#### Positive feedback loops
+#### Virtuous Cycles
 
 So how does an organization strive towards bettering themselves with feedback loops?
 
@@ -28,7 +28,7 @@ Second, drive for positive outcomes.  Sales provides customer feedback to Engine
 
 It's important to note that none of this is free, and none of this is locally optimal.  If sales just focuses on closing deals ASAP, they might make more sales today, but they miss the opportunity of sales on the features that can't get built.  If engineering is overly focused on closing support tickets without real triage ("not a bug"), their KPIs might look better (especially if it's KLoC), but they lose the velocity they would have with less time spent on bugfixes.
 
-#### Negative feedback loops
+#### Vicious Cycles
 
 Feedback loops can also bite.  I see one particular example frequently with AI.
 
