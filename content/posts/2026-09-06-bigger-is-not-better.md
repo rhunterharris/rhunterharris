@@ -28,18 +28,18 @@ Obviously, different people in different roles scale differently - and the scali
 
 A larger, scarier scalability problem is communication overhead.
 
-Team Size | Communication Links
------
-1 | 0 
-2 | 1 
-3 | 3 
-4 | 6 
-5 | 10 
-6 | 15 
-7 | 21 
-8 | 28 
-9 | 36 
-10| 45 
+| Team Size | Communication Links |
+|----------:|--------------------:|
+| 1         | 0                   |
+| 2         | 1                   |
+| 3         | 3                   |
+| 4         | 6                   |
+| 5         | 10                  |
+| 6         | 15                  |
+| 7         | 21                  |
+| 8         | 28                  |
+| 9         | 36                  |
+| 10        | 45                  |
 
 As we can see, team size increases linearly, while links increase quadratically.  I should add, cancel all the meetings you want, but this overhead persists.  The only way to eliminate it is by siloing people (which has its own cost), or literally removing people from the loop via firing.  You can mitigate it by making teams of teams, but ultimately delays scaling (and does require dedicated resources for that).  Typically it does show up in sync meetings, but it shows up in grooming, planning, transferring and managing priorities, handoffs, stand-ups, code reviews, and really any process which requires you to coordinate more than yourself - the bad news being, that is most activity that businesses engage in.
 
@@ -51,13 +51,13 @@ Back to the previous paragraph - so we should conclude that we should all be pla
 
 One reason we scale teams is risk and redundancy.
 
-Team Size | Productivity Lost if 1 Person Sick
------
-1 | 100% 
-2 | 50% 
-3 | 33% 
-4 | 25% 
-5 | 20% 
+| Team Size | Productivity Lost if 1 Person Is Sick |
+|----------:|---------------------------------------:|
+| 1         | 100%                                   |
+| 2         | 50%                                    |
+| 3         | 33%                                    |
+| 4         | 25%                                    |
+| 5         | 20%                                    |
 
 One important caveat to this chart - sometimes two people get sick at once.  Sometimes there are global pandemics and lots of people get sick at once.  Sometimes people also quit.
 
