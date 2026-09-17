@@ -32,3 +32,9 @@ I come in for 90 days as your interim product-technology leader and turn that ar
 If you have technical leadership you trust and things are working, you don't need me. Why fix what isn't broken?
 
 *Advisory and shorter engagements available on request.*
+
+### Take the next step
+
+If you're not sure where the money is going, [score your product-tech org in about seven minutes](https://hunter-software-consulting.beehiiv.com/products/the-product-tech-scorecard?utm_source=huntersoftwareconsulting.com&utm_medium=services&utm_campaign=ship-what-sells). The free scorecard shows which of six areas needs a closer look. A score is a starting point, not a diagnosis.
+
+If a missed deal, churn, or a slipping revenue deadline has made this urgent, [book a 20-minute conversation](https://calendly.com/rhunterharris/20-minute-consultation?utm_source=huntersoftwareconsulting.com&utm_medium=services&utm_campaign=ship-what-sells) or [email me](mailto:hunter@huntersoftwareconsulting.com?subject=Ship%20What%20Sells%20from%20Services%20page). Tell me what's at risk. I'll tell you whether this is a problem I can help solve.
